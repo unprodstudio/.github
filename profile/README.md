@@ -6,7 +6,7 @@
 
 ### 🌤️ [SUNFALL](https://x.com/SUNFALLUPDATES) (Creator SMP)
 
-SUNFALL is a new Minecraft SMP from UNPROD, expanding on SMP Unity with a more ambitious scope. It features custom mechanics, dynamic events, enhanced visuals, and deeper viewer interaction. Launching mid 2026.
+SUNFALL is a new Minecraft SMP from the creators of SMP Unity, with an expansive original story, custom mechanics, and more. It is currently in production at UNPROD.
 
 ### 👑 [SMP Unity](https://x.com/UnityMultiEN) (Creator SMP)
 
