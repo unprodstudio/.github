@@ -1,37 +1,35 @@
-# Welcome to [UNPROD](https://x.com/unprodprojects) (Unity Productions)!
+# Say *hello* to [**UNPROD**](https://x.com/UNPRODSTUDIO) ✷
 
 ![Git Banner](https://github.com/user-attachments/assets/96da5d5b-6a61-42ae-8f52-d9946f4b04ae)
 
-## 🛠️ What We've Done *(so far)*
+## 🛠️ Some of Our Stuff...
 
-### 🛡️ [Faction Wars](https://x.com/FWEvent) (Creator Event Series)
+### 🌤️ [SUNFALL](https://x.com/SUNFALLUPDATES) (Creator SMP)
 
-Faction Wars is a fast-paced, battle-royale style Minecraft event that debuted as an early prototype for the finale of Unity Multiplayer in late 2025. Its full release is planned for late 2026 and will differ significantly from the 2025 prototype.
+SUNFALL is a new Minecraft SMP from UNPROD, expanding on SMP Unity with a more ambitious scope. It features custom mechanics, dynamic events, enhanced visuals, and deeper viewer interaction. Launching mid 2026.
 
-### 👑 [SMP Unity (aka Unity Multiplayer](https://x.com/UnityMultiEN) (Creator SMP)
+### 👑 [SMP Unity](https://x.com/UnityMultiEN) (Creator SMP)
 
-SMP Unity was the first multilingual factions Minecraft server, running for over two years until October 25th, 2025. Across four seasons, it featured a continuing storyline, interactive live events, and fully custom systems designed to enhance the experience for content creators. Learn more at [Unity Hotspot](https://unitymultiplayer.online/).
+SMP Unity was the first multilingual factions Minecraft server, running for over two years until October 25, 2025. It featured four seasons with an ongoing storyline, live events, and fully custom systems.
 
 ### 🌐 [UnityTranslate](https://modrinth.com/mod/unitytranslate) (Public Mod)
 
-UnityTranslate provides real-time speech-to-text translation in Minecraft at no cost. Translations can appear as speech bubbles above players or as text boxes in your HUD. With support for over 44 languages, it makes global conversation smoother than ever.
-
-### 💻 Unitils (Private Mod)
-
-Unitils is a private suite of tools built for Unity Multiplayer. It manages customizable flag icons, tab configurations, live stream indicators, nicknames, rank badges, and countless custom items and features used in live events. Everything is designed for full control over Unity’s core features.
+UnityTranslate is a Minecraft mod that provides real time speech to text translation. Messages appear as speech bubbles or HUD text, with support for over 44 languages to enable seamless global communication.
 
 ### 👁️ [Origins SMP](https://modrinth.com/modpack/osmp) (Public Modpack)
 
-Origins SMP focuses on the popular Origins mod, providing a fun modded gameplay experience. It includes additional mods to enhance performance and bring more life to the world while keeping the focus on Origins.
+Origins SMP is a modpack built around the Origins mod, delivering a fun and accessible modded experience. It enhances gameplay with performance improvements and additional content while keeping Origins at its core.
 
-### 🎙️ [Amended Icons](https://modrinth.com/resourcepack/amendedicons) (Public Resource Pack)
+### 🎙️ [Amended SVC Icons](https://modrinth.com/resourcepack/amendedicons) (Public Resource Pack)
 
-Amended Icons is a resource pack focused on updating the textures for every Simple Voice Chat icon, offering a cleaner and more polished look while still staying true to the original design language.
+Amended SVC Icons is a resource pack that refreshes all Simple Voice Chat icons with a cleaner, more polished design, while staying consistent with the original style.
 
-### 🔗 [Unity Hotspot](https://unitymultiplayer.online/) (Website)
+### ⚙️ [Simply Optimized & Up to Date](https://modrinth.com/modpack/simply-optimized-up-to-date) (Public Modpack)
 
-Unity Hotspot is the central hub for everything Unity Multiplayer. It shows when any Unity creator goes live, credits the team behind the project, links to Unity’s socials, and offers a brief history of Unity. Its open-source code allows you to explore or use it in your own projects.
+Simply Optimized & Up to Date is a lightweight modpack focused on performance. It updates the original Simply Optimized with modern optimization mods for the latest Minecraft versions.
 
-## 📬 Join Unprod
+### 🖼️ [Mannequin Essentials](https://modrinth.com/modpack/mannequinessentials) (Public Modpack)
 
-Apply to join the team currently working on Faction Wars here: [Application Link](https://x.com/FWEvent/status/1984713803611979802)
+Mannequin Essentials is a lightweight modpack built around the Mannequin mod by Cublem, designed for quick and easy thumbnail creation. It includes performance and quality of life mods for a smooth, no fuss setup.
+
+### *and much more to come...*
