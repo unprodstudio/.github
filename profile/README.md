@@ -1,6 +1,6 @@
-# Say *hello* to [**UNPROD**](https://x.com/UNPRODSTUDIO) ✷
+# Say **hello** *(or hi, hey, etc.)* to [**UNPROD**](https://x.com/UNPRODSTUDIO) ✷
 
-![Git Banner](https://github.com/user-attachments/assets/96da5d5b-6a61-42ae-8f52-d9946f4b04ae)
+<img width="1500" height="600" alt="Productions Promo" src="https://github.com/user-attachments/assets/3992f3e3-eb65-404f-9f75-238331c07bcc" />
 
 ## 🛠️ Some of Our Stuff...
 
